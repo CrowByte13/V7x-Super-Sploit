@@ -1,7 +1,6 @@
 <h1>Coded By V7x Team</h1>
 # Vairous7x SupperSploit
--------------------Subscribe to Vairous7x on Youtube---------------------- 
-<h1> ------ </h1>
+<h1> Subscribe to Vairous7x on Youtube </h1>
 run 'bash vss-setup.sh' 
 
 then run 'bash vss.sh'
