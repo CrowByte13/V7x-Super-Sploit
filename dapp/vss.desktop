@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Terminal=true
-Exec=/bin/bash vcc.sh
+Exec=/bin/bash vss.sh
 Icon=/opt/vss/VSS_Icon.png
 Name=VSS
 Comment=
