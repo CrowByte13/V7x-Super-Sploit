@@ -10,7 +10,4 @@ type 'full_guide' to learn usage
 type 'help' to show commands
 
 type 'info' followed by a command to learn it's usage
-<h1> ------ </h1>
--------------------Subscribe to Vairous7x on Youtube----------------------
-
 <h3>Try But Don't Cry</h3>
