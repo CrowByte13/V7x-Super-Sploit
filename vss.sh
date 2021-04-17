@@ -307,6 +307,18 @@ help(){
   printf "                                \n"
 }
 
+update(){
+  python3 anim/updater.py
+  cd ..
+  rm -rif V7x-Super-Sploit
+  git clone https://github.com/Vairous7x/V7x-Super-Sploit &> /dev/null
+  printf "$green[+]$yellow Updated, Restarting VSS...\n"
+  cd V7x-Super-Sploit
+  bash vss-setup.sh
+  clear
+  bash vss.sh
+}
+
 zsession(){
    if [ "$IP" == "" ] || [ "$PORT" == '' ];then
      sound "s"
