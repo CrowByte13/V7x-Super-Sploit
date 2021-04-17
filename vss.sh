@@ -92,7 +92,7 @@ rm ason/prepared.w &> /dev/null
 export VSET_RUNNED=0
 printf "$green[+]$yellow V7X - Super Sploit - Linux NightMare : this version support exploiting termux and All system with linux kernel, and windows\n"
 sleep 0.05
-printf "$green[+V7X+]$yellow Starting The VSS interactive console... (version 2.1)\n"
+printf "$green[+V7X+]$yellow Starting The VSS interactive console... (version 1.0)\n"
 sleep 0.4
 target_os=''
 target(){
