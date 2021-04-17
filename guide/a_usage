@@ -1,3 +1,5 @@
+Run "info <command>" To learn a command
+
 commands:
   
       vset : to set attacker address, exampleL: vset 10.0.0.23  4444 
