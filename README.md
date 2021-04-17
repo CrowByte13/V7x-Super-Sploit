@@ -1,9 +1,9 @@
 <h1>Coded By V7x Team</h1>
 # Vairous7x SupperSploit [ VSS v1.0 ]
 <h1> Subscribe to Vairous7x on Youtube </h1>
-1- run 'bash vss-setup.sh' 
+1- run 'sudo bash vss-setup.sh' 
 
-2- run 'bash vss.sh'
+2- run 'sudo bash vss.sh'
 
 ► type 'full_guide' to learn usage
 
